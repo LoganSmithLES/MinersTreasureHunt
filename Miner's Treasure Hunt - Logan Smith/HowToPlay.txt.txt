@@ -1,0 +1,25 @@
+Overview:
+>Your goal as a miner is to exit the mines in a better status than your fellow miners!
+>Leaving with more time, money & ores puts you higher on the leaderboard!
+>If you run out of time while mining, you will suffocate!
+>If you run out of money and can't pay the exit toll, you suffocate and die!
+
+Controls:
+> Use WASD to move up (W), down (s), left (a), and right (d)
+> Use i to open up the store
+
+Characters, Ores & Store:
+> The store is where you can sell your ores and buy mining equipment.
+> While in the store your timer stops!
+> You can only carry 10 of each ore! 
+> You can only sell all of one ore OR all of your ores at once.
+> The following is each map character:
+   # = Border Wall (Can't walk/interact with)
+   P = Player (Thats you!)
+   X = Bolder (Impassable, But Removable!)
+   G = Gold! ($5)
+   C = Cobalt! ($4)
+   I = Iron! ($3)
+   N = Nickle ($2)
+   E = Exit! ($100 to exit!)
+  

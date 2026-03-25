@@ -1,0 +1,3 @@
+C:/Miner's Treasure Hunt - Logan Smith/cmake-build-debug/CMakeFiles/Miner_s_Treasure_Hunt___Logan_Smith.dir
+C:/Miner's Treasure Hunt - Logan Smith/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Miner's Treasure Hunt - Logan Smith/cmake-build-debug/CMakeFiles/rebuild_cache.dir
